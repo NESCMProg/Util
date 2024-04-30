@@ -1,0 +1,7 @@
+D:\NESProjects\cmptwofiles\cmptwofiles\bin\Debug\cmptwofiles.exe.config
+D:\NESProjects\cmptwofiles\cmptwofiles\bin\Debug\cmptwofiles.exe
+D:\NESProjects\cmptwofiles\cmptwofiles\bin\Debug\cmptwofiles.pdb
+D:\NESProjects\cmptwofiles\cmptwofiles\obj\Debug\cmptwofiles.csproj.AssemblyReference.cache
+D:\NESProjects\cmptwofiles\cmptwofiles\obj\Debug\cmptwofiles.csproj.CoreCompileInputs.cache
+D:\NESProjects\cmptwofiles\cmptwofiles\obj\Debug\cmptwofiles.exe
+D:\NESProjects\cmptwofiles\cmptwofiles\obj\Debug\cmptwofiles.pdb
